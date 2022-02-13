@@ -1,5 +1,10 @@
 Utilizando o git:
 
+Lembre-se de alterar as credenciais. Exemplo:
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+
 Para clonar o repositorio: $ git clone https://github.com/tenacidade/dio-eduzz-fullstkdev.git
 
 Para verificar se o git está atualizado com as alteraçoes/arquivos novos: $ git status
@@ -7,3 +12,4 @@ Para verificar se o git está atualizado com as alteraçoes/arquivos novos: $ gi
 Para adicionar as alterações no controle de versao local: $ git add .
 
 Para adicionar $ git commit -m "Inclusao das anotacoes sobre git"
+
