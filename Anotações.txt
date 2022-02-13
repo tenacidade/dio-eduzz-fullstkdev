@@ -13,3 +13,4 @@ Para adicionar as alterações no controle de versao local: $ git add .
 
 Para adicionar $ git commit -m "Inclusao das anotacoes sobre git"
 
+Pulo do gato: Apesar de ser possível realizar os steps pelo git bash, é mais fácil pelo VSCode.
