@@ -5,7 +5,8 @@ $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 
 
-Para clonar o repositorio: $ git clone https://github.com/tenacidade/dio-eduzz-fullstkdev.git
+Para clonar o repositorio (cd into project folder and clone):
+$ git clone https://github.com/tenacidade/dio-eduzz-fullstkdev.git
 
 Para verificar se o git está atualizado com as alteraçoes/arquivos novos: $ git status
 
