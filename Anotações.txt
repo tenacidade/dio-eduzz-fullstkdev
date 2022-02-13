@@ -1,0 +1,7 @@
+Utilizando o git:
+
+Para clonar o repositorio: `git clone https://github.com/tenacidade/dio-eduzz-fullstkdev.git`
+
+Para verificar se o git está atualizado com as alteraçoes/arquivos novos: `git status`
+
+Para adicionar as alterações ao git: `git add .`
